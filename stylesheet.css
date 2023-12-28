@@ -1,0 +1,10 @@
+body{
+    background-image: url(76YS.gif);
+    color: aliceblue;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+    cursor: pointer;
+}
